@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Inicio Sesion";
+}
+
+@{
+    Layout = null;
+}
+
+<link rel="stylesheet" href="~/css/StylesPaginaIS.css" asp-append-version="true" />
+
+
+<header class="header">
+    <nav class="nav">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="PaginaMujeres">Mujer</a>
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="PaginaHombres">Hombre</a>
+        <a href="#"> Tendencias </a>
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="CatalogoBolsos">Accesorios</a>
+    </nav>
+    <div class="search">
+        <input type="home">
+        <a> <i class="fa-solid fa-magnifying-glass"></i></a>
+    </div>
+</header>
+<div class="background"></div>
+<section class="home">
+    <div class="content">
+        <a href="~/Home/Index" class="logo">LIANA</a>
+        <h2> Bienvenido </h2>
+        <h3></h3>
+        <pre> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        A minus debitis mollitia voluptatem, 
+        possimus eveniet eius sunt doloremque, 
+        obcaecati quae commodi impedit quidem. 
+        Excepturi deserunt iure atque, quo id suscipit?</pre>
+        <div class="icon">
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-twitter"></i>
+            <i class="fa-brands fa-tiktok"></i>
+        </div>
+    </div>
+    <div class="login">
+        <h2>Iniciar Sesión</h2>
+        <div class="input">
+            <input type="text" class="input1" placeholder="Email" required>
+            <i class="fa-solid fa-envelope"></i>
+        </div>
+        <div class="input">
+            <input type="password" class="input1" placeholder="Password" required>
+            <i class="fa-solid fa-lock"></i>
+        </div>
+        <div class="check">
+            <label> <input type="checkbox">Recuerdame</label>
+            <label class="checkbox-custom" for="keep-session"></label>
+            <a href="#">¿Olvidaste tu contraseña?</a>
+        </div>
+        <div type="submit" value="INICIAR SESIÓN" class="button">
+            <a href="index.html"><button class="btn"> Iniciar Sesión </button></a>
+        </div>
+        <div class="sign-up">
+            <p>¿No tienes una cuenta? </p>
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="PaginaRegistro">Registrate</a>
+        </div>
+    </div>
+</section>
+
+<script src="https://kit.fontawesome.com/32b02e47e2.js" crossorigin="anonymous"></script>

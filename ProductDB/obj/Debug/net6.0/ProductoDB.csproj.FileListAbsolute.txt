@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\bin\Debug\net6.0\ProductoDB.deps.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\bin\Debug\net6.0\ProductoDB.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\bin\Debug\net6.0\ProductoDB.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\bin\Debug\net6.0\ProductoDomain.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\bin\Debug\net6.0\ProductoDomain.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.AssemblyInfo.cs
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.csproj.CopyComplete
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\refint\ProductoDB.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ref\ProductoDB.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\bin\Debug\net6.0\ProductoDB.deps.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\bin\Debug\net6.0\ProductoDB.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\bin\Debug\net6.0\ProductoDB.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\bin\Debug\net6.0\ProductoDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\bin\Debug\net6.0\ProductoDomain.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.AssemblyInfo.cs
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.csproj.Up2Date
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\refint\ProductoDB.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ProductoDB.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductDB\obj\Debug\net6.0\ref\ProductoDB.dll

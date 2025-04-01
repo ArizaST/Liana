@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: .2s;
+    outline: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+.escritorio {
+    background: #fff;
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+    justify-content: center;
+    max-width: 100%;
+}
+
+.liana {
+    color: #16151b;
+    text-align: center;
+    font-size: 10em;
+    font-family: Bodoni Moda;
+    font-style: italic;
+    font-weight: 600;
+    position: center;
+}
+
+
+.zoomable-image {
+    transition: transform 0.2s, filter 0.2s;
+}
+
+
+    .zoomable-image:hover {
+        transform: scale(1.1);
+        filter: brightness(80%);
+    }
+
+.hombresTexto .zoomable-image,
+.mujeresTexto .zoomable-image {
+    display: block;
+    transition: transform 0.2s, filter 0.2s;
+}
+
+.mujeresTexto:hover .zoomable-image,
+.hombresTexto:hover .zoomable-image {
+    transform: scale(1.1);
+    filter: brightness(80%);
+}
+
+.mujeresTexto:hover .box-text,
+.hombresTexto:hover .box-text,
+.accesoriosTexto:hover .box-text,
+.tendenciasTexto:hover .box-text {
+    text-shadow: 0 0 15px #fff, 0 0 15px #fff;
+}
+
+.menuPrincipal {
+    display: flex;
+    text-align: center;
+    margin: 0 10px 0 10px;
+    justify-content: center;
+    max-width: 100%;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.bannerMujer {
+    margin: 0 10px 0 10px;
+    width: 400px;
+    height: 700px;
+    margin-top: 10px;
+}
+
+.mujeresTexto, .hombresTexto, .accesoriosTexto, .tendenciasTexto {
+    position: relative;
+    overflow: hidden;
+    display: block;
+}
+
+    .mujeresTexto .box-text, .hombresTexto .box-text {
+        text-decoration: none;
+        color: #ffffff;
+        text-align: center;
+        font-size: 5em;
+        font-family: Libre Bodoni;
+        font-style: italic;
+        font-weight: 500;
+        position: absolute;
+        left: 0%;
+        padding-top: 120%;
+        width: 400px;
+        height: 140px;
+        top: 0;
+    }
+
+    .tendenciasTexto .box-text, .accesoriosTexto .box-text {
+        text-decoration: none;
+        color: #ffffff;
+        text-align: center;
+        font-size: 4em;
+        font-family: Libre Bodoni;
+        font-style: italic;
+        font-weight: 500;
+        position: absolute;
+        left: 1%;
+        padding-top: 150px;
+        width: 400px;
+        height: 140px;
+        top: 0;
+    }
+
+.bannerHombre {
+    margin: 0 10px 0 10px;
+    width: 400px;
+    height: 700px;
+    margin-top: 10px;
+}
+
+.bannerTendencias {
+    margin: 0 10px 0 10px;
+    width: 400px;
+    height: 350px;
+    margin-top: 10px;
+}
+
+.bannerAccesorios {
+    margin: 0 10px 0 10px;
+    flex-direction: column;
+    width: 400px;
+    height: 330px;
+}
+
+@media (max-width: 768px) {
+    .menuPrincipal {
+        flex-direction: column;
+        align-items: center;
+    }
+}

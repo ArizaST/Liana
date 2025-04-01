@@ -1,0 +1,85 @@
+﻿@model Liana.Models.User
+@{
+    Layout = null;
+}
+@{
+    ViewData["Title"] = "Users";
+}
+
+<link rel="stylesheet" href="~/css/StylesPaginaRegistro.css" asp-append-version="true" />
+
+
+<header class="header">
+    <nav class="nav">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="PaginaMujeres">Mujer</a>
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="PaginaHombres">Hombre</a>
+        <a href="#"> Tendencias </a>
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="CatalogoBolsos">Accesorios</a>
+    </nav>
+    <div class="search">
+        <input type="home">
+        <a> <i class="fa-solid fa-magnifying-glass"></i></a>
+    </div>
+</header>
+<div class="background"></div>
+<section class="home">
+    <div class="login">
+        <h1>LIANA</h1>
+        <h2>Crea tu cuenta</h2>
+        <div class="google">
+            <i class="fa-brands fa-google googleicon"></i>
+            <h3>REGISTRARSE CON GOOGLE</h3>
+        </div>
+
+        @using (Html.BeginForm("CreateUser", "Home", FormMethod.Post))
+{
+        <div class="input">
+                <input type="text" class="input1" placeholder="User" id="UserName" name="UserName" required>
+            <i class="fa-solid fa-user icon"></i>
+        </div>
+
+        <div class="input">
+                <input type="text" class="input1" placeholder="First Name" id="FSName" name="FSName" required>
+            <i class="fa-solid fa-user icon"></i>
+        </div>
+
+        <div class="input">
+                <input type="text" class="input1" placeholder="Last Name" id="LastName" name="LastName" required>
+            <i class="fa-solid fa-user icon"></i>
+        </div>
+
+        <div class="input">
+                <input type="email" class="input1" placeholder="Email" id="Email" name="Email" required>
+            <i class="fa-solid fa-envelope"></i>
+        </div>
+        <div class="input">
+                <input type="password" class="input1" placeholder="Password" id="Password" name="Password" required>
+            <i class="fa-solid fa-lock"></i>
+        </div>
+
+        <div class="input">
+                <input type="date" class="input1" placeholder="Date of birthday" id="DOBirthday" name="DOBirthday" required>
+            <i class="fa-solid fa-lock"></i>
+        </div>
+
+        <div class="input">
+                <input type="text" class="input1" placeholder="Phone" id="Phone" name="Phone" required>
+            <i class="fa-solid fa-lock"></i>
+        </div>
+
+        <div class="check">
+            <label> <input type="checkbox">Recuerdame</label>
+            <label class="checkbox-custom" for="keep-session"></label>
+        </div>
+        <div type="submit" value="Create User" class="button">
+            <button class="btn btn-primary"> Crear Cuenta </button>
+        </div>
+        <div class="sign-up">
+            <p>¿Ya tienes una cuenta? </p>
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="PaginaInicioSesion">Iniciar Sesión</a>
+        </div>
+}
+    </div>
+</section>
+
+<script src="https://kit.fontawesome.com/32b02e47e2.js" crossorigin="anonymous"></script>

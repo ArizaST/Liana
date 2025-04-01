@@ -1,0 +1,82 @@
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.exe
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.deps.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.runtimeconfig.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoBussines.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoDB.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoDomain.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoBussines.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoDomain.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoDB.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.AssemblyInfo.cs
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProductoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductoAPI.props
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductoAPI.props
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductoAPI.props
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\scopedcss\bundle\ProductoAPI.styles.css
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.csproj.CopyComplete
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\refint\ProductoAPI.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.genruntimeconfig.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ref\ProductoAPI.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.staticwebassets.endpoints.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.exe
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.deps.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.runtimeconfig.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoAPI.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoBussines.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoDB.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoBussines.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoDomain.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\bin\Debug\net6.0\ProductoDB.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.AssemblyInfo.cs
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\scopedcss\bundle\ProductoAPI.styles.css
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProductoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProductoAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductoAPI.props
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductoAPI.props
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductoAPI.props
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\Producto.D67D7051.Up2Date
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\refint\ProductoAPI.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ProductoAPI.genruntimeconfig.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\ProductoAPI\obj\Debug\net6.0\ref\ProductoAPI.dll

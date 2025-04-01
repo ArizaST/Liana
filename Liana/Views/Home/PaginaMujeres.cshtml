@@ -1,0 +1,147 @@
+﻿@{
+    ViewData["Title"] = "Mujer";
+}
+
+@section Styles{
+    <link rel="stylesheet" href="~/css/StylesPagina.css" />
+}
+
+ <div class="product-container">
+            <div class="main-fondo">
+                <div class="banner-container">
+                <a href="#" class="banner" style="background-image: url('/Imagenes/PagMujer/BannerMujer1.jpeg');"></a>
+                <a href="#" class="banner" style="background-image: url('/Imagenes/PagMujer/BannerMujer2.jpeg');"></a>
+                </div>
+                <div class="controls">
+                    <div class="prev" onclick="prevSlide()">&#10094;</div>
+                    <div class="next" onclick="nextSlide()">&#10095;</div>
+                </div>
+            </div>
+        </div>
+
+     <!-- ====== Productos ====== -->
+    <div class="product-container">
+        <div class="product">
+            <a class="mujeresTexto" asp-area="" asp-controller="Home" asp-action="CatalogoSacos">   
+            <img src="~/Imagenes/PagMujer/Sacos.jpeg">
+                <div class="product-text">
+                    <p>SACOS</p>
+                </div>
+            </a>
+        </div>
+        <div class="product">
+            <a class="mujeresTexto" asp-area="" asp-controller="Home" asp-action="CatalogoPantalones">
+            <img src="~/Imagenes/PagMujer/Pantalones.jpeg">
+                <div class="product-text">
+                    <p>PANTALONES</p>
+                </div>
+            </a>
+        </div>
+        <div class="product">
+            <a href="#">
+            <img src="~/Imagenes/PagMujer/Camisas.jpeg">
+                <div class="product-text">
+                    <p>CAMISAS</p>
+                </div>
+            </a>
+        </div>
+        <div class="product">
+            <a href="#">
+            <img src="~/Imagenes/PagMujer/Faldas.jpeg">
+                <div class="product-text">
+                    <p>FALDAS</p>
+                </div>
+            </a>
+        </div>
+        <div class="product">
+            <a href="#">
+            <img src="~/Imagenes/PagMujer/Vestidos.jpeg">
+                <div class="product-text">
+                    <p>VESTIDOS</p>
+                </div>
+            </a>
+        </div>
+        <div class="product">
+            <a href="#">
+            <img src="~/Imagenes/PagMujer/Abrigos.jpeg">
+                <div class="product-text">
+                    <p>ABRIGOS</p>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <!-- ====== Galeria ====== -->
+    <div class="collage-container">
+        <h1>DESCUBRE TU ESTILO</h1>
+        <div class="estilo">
+        <img src="~/Imagenes/PagMujer/BanerMujer3.jpeg">
+        </div>
+    </div>
+
+    <div class="product-container2">
+        <div class="product2">
+            <a class="mujeresTexto" asp-area="" asp-controller="Home" asp-action="DTEElegante">
+            <img src="~/Imagenes/PagMujer/Elegante1.jpg">
+                <div class="product-text2">
+                    <p>ELEGANTE</p>
+                </div>
+            </a>
+        </div>
+        <div class="product2">
+            <a href="#">
+            <img src="~/Imagenes/PagMujer/Casual.jpg">
+                <div class="product-text2">
+                    <p>CASUAL</p>
+                </div>
+            </a>
+        </div>
+        <div class="product2">
+            <a href="#">
+            <img src="~/Imagenes/PagMujer/Fiesta.jpg">
+                <div class="product-text2">
+                    <p>PARTY</p>
+                </div>
+            </a>
+        </div>
+        <div class="product2">
+            <a href="#">
+            <img src="~/Imagenes/PagMujer/Trendy.jpg">
+                <div class="product-text2">
+                    <p>TRENDY</p>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <script>
+    let currentSlide = 0;
+    const banners = document.querySelectorAll(".banner");
+
+    function showSlide(index) {
+        if (index < 0) {
+            index = banners.length - 1;
+        } else if (index >= banners.length) {
+            index = 0;
+        }
+
+        for (let i = 0; i < banners.length; i++) {
+            banners[i].style.display = "none";
+        }
+
+        banners[index].style.display = "block";
+        currentSlide = index;
+    }
+
+    function nextSlide() {
+        showSlide(currentSlide + 1);
+    }
+
+    function prevSlide() {
+        showSlide(currentSlide - 1);
+    }
+
+    // Mostrar el primer banner al cargar la página
+    showSlide(0);
+    </script>
+

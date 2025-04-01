@@ -1,0 +1,22 @@
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\bin\Debug\net6.0\ProductoDomain.deps.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\bin\Debug\net6.0\ProductoDomain.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\bin\Debug\net6.0\ProductoDomain.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.AssemblyInfo.cs
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\refint\ProductoDomain.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ref\ProductoDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\bin\Debug\net6.0\ProductoDomain.deps.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\bin\Debug\net6.0\ProductoDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\bin\Debug\net6.0\ProductoDomain.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.AssemblyInfo.cs
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\refint\ProductoDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ProductoDomain.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\Producto\obj\Debug\net6.0\ref\ProductoDomain.dll

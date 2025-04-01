@@ -1,0 +1,33 @@
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\bin\Debug\net6.0\UserDomain.deps.json
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\bin\Debug\net6.0\UserDomain.dll
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\bin\Debug\net6.0\UserDomain.pdb
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.AssemblyInfo.cs
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.dll
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\refint\UserDomain.dll
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.pdb
+C:\Users\Admin\Documents\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\ref\UserDomain.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\bin\Debug\net6.0\UserDomain.deps.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\bin\Debug\net6.0\UserDomain.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\bin\Debug\net6.0\UserDomain.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.AssemblyInfo.cs
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\refint\UserDomain.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\ref\UserDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\bin\Debug\net6.0\UserDomain.deps.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\bin\Debug\net6.0\UserDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\bin\Debug\net6.0\UserDomain.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.AssemblyInfo.cs
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\refint\UserDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\UserDomain.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserDomain\obj\Debug\net6.0\ref\UserDomain.dll

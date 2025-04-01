@@ -1,0 +1,51 @@
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserBusiness.deps.json
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserBusiness.dll
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserBusiness.pdb
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDB.dll
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDomain.dll
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDB.pdb
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDomain.pdb
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.AssemblyInfo.cs
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.csproj.CopyComplete
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.dll
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\refint\UserBusiness.dll
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.pdb
+C:\Users\Admin\Documents\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\ref\UserBusiness.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserBusiness.deps.json
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserBusiness.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserBusiness.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDB.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDomain.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDB.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDomain.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.AssemblyInfo.cs
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.csproj.CopyComplete
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\refint\UserBusiness.dll
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.pdb
+C:\Users\Admin\Documents\Downloads\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\ref\UserBusiness.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserBusiness.deps.json
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserBusiness.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserBusiness.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDB.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDomain.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDB.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\bin\Debug\net6.0\UserDomain.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.AssemblyInfo.cs
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusi.1DF4287B.Up2Date
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\refint\UserBusiness.dll
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\UserBusiness.pdb
+C:\Users\User\Downloads\LianaFinal (2)\LianaFinal\LianaFinal\Liana\UserBusiness\obj\Debug\net6.0\ref\UserBusiness.dll

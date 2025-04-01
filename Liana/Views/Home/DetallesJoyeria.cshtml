@@ -1,0 +1,153 @@
+﻿@{
+    ViewData["Title"] = "ARETE TOPO PANDERO";
+}
+
+@section Styles{
+    <link rel="stylesheet" href="~/css/StylesDetalles.css" />
+}
+<div class="container-img">
+    <img src="~/Imagenes/Accesorios/Joyeria1.png" alt="ARETE TOPO PANDERO" />
+</div>
+
+<div class="container-info-producto">
+    <div class="container-precio">
+        <span>$160.900</span>
+    </div>
+
+    <div class="container-detalles-producto">
+        <div class="form-group">
+            <label for="talla">Color</label>
+            <select name="talla" id="talla">
+                <option value="">Escoge una opción</option>
+                <option value="S">Oro</option>
+                <option value="M">Plata</option>
+                <option value="L">Acero</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="container-add-carrito">
+        <div class="container-cantidad">
+            <p>Cantidad: <input type="number" id="quantity" value="1"></p>
+        </div>
+
+        <button class="btn-add-to-carrito" onclick="agregarAlCarrito()">
+            <i class="fa-solid fa-plus"></i>
+            Agregar al Carrito
+        </button>
+    </div>
+
+    <div class="container-descripcion">
+        <div class="title-descripcion">
+            <h4>Descripción</h4>
+            <i class="fa-solid fa-chevron-down"></i>
+        </div>
+
+        <div class="text-descripcion">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius dignissimos dicta eligendi, est vitae voluptatum nesciunt illo officiis inventore odit impedit hic nobis nihil minus iusto perferendis fuga corporis. Dolorum.
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed qui architecto sequi necessitatibus sapiente non libero tempora! Earum nesciunt labore, corporis voluptatum molestias at adipisci deleniti obcaecati, aspernatur unde repudiandae.
+            </p>
+        </div>
+    </div>
+
+    <div class="container-info-adicional">
+        <div class="title-info-adicional">
+            <h4>Información Adicional</h4>
+            <i class="fa-solid fa-chevron-down"></i>
+        </div>
+        <div class="text-info-adicional">
+            <p>----------</p>
+        </div>
+    </div>
+
+    <div class="container-reviews">
+        <div class="title-reviews">
+            <h4>Reseñas</h4>
+            <i class="fa-solid fa-chevron-down"></i>
+        </div>
+        <div class="text-reviews">
+            <p>----------</p>
+        </div>
+    </div>
+
+    <div class="container-redes">
+        <span>Compartir</span>
+        <div class="container-botones-redes">
+            <a href="https://www.tiktok.com/es/"><i class="fa-brands fa-tiktok"></i></a>
+            <a href="https://www.instagram.com/"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.facebook.com/?locale=es_LA"><i class="fa-brands fa-facebook"></i></a>
+            <a href="https://twitter.com/?lang=es"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="https://www.youtube.com/?gl=CO&hl=es-419"><i class="fa-brands fa-youtube"></i></a>
+        </div>
+    </div>
+</div>
+    </main>
+<section class="container-productos-relacionados">
+    <h2>Productos Relacionados</h2>
+    <div class="card-lista-productos">
+
+        <div class="card">
+            <div class="card-img">
+                <img src="~/Imagenes/Accesorios/Joyeria2.png" alt="producto-1">
+            </div>
+            <div class="info-card">
+                <div class="text-product">
+                    <h3>SET X 3 EARCUFF</h3>
+                    <p class="category">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga similique, sed, impedit quo quidem iure incidunt molestias aliquid voluptas, non veritatis molestiae perspiciatis laborum libero aut modi culpa iusto voluptatibus.
+                    </p>
+                </div>
+                <div class="precio">$149.90</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-img">
+                <img src="~/Imagenes/Accesorios/Joyeria3.png" alt="producto-1">
+            </div>
+            <div class="info-card">
+                <div class="text-product">
+                    <h3>ANILLO SOLITARIO</h3>
+                    <p class="category">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga similique, sed, impedit quo quidem iure incidunt molestias aliquid voluptas, non veritatis molestiae perspiciatis laborum libero aut modi culpa iusto voluptatibus.
+                    </p>
+                </div>
+                <div class="precio">$250.00</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-img">
+                <img src="~/Imagenes/Accesorios/Joyeria4.png" alt="producto-1">
+            </div>
+            <div class="info-card">
+                <div class="text-product">
+                    <h3>ANILLO CRUZADO</h3>
+                    <p class="category">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga similique, sed, impedit quo quidem iure incidunt molestias aliquid voluptas, non veritatis molestiae perspiciatis laborum libero aut modi culpa iusto voluptatibus.
+                    </p>
+                </div>
+                <div class="precio">$160.00</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-img">
+                <img src="~/Imagenes/Accesorios/Joyeria5.png" alt="producto-1">
+            </div>
+            <div class="info-card">
+                <div class="text-product">
+                    <h3>FILI ARETE EN GANCHO</h3>
+                    <p class="category">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga similique, sed, impedit quo quidem iure incidunt molestias aliquid voluptas, non veritatis molestiae perspiciatis laborum libero aut modi culpa iusto voluptatibus.
+                    </p>
+                </div>
+                <div class="precio">$230.99</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<script src="~/js/PaginaDetalleJoyeria1.js" asp-append-version="true"></script>

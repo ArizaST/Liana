@@ -1,0 +1,274 @@
+wwwroot\css\Index.css
+wwwroot\css\Pagina3.css
+wwwroot\css\site.css
+wwwroot\css\StylesCatalogo.css
+wwwroot\css\StylesDetalles.css
+wwwroot\css\StylesDTE.css
+wwwroot\css\StylesPagina.css
+wwwroot\css\StylesPaginaIS.css
+wwwroot\css\StylesPaginaRegistro.css
+wwwroot\css\UserList.css
+wwwroot\favicon.ico
+wwwroot\Imagenes\Accesorios\Bolso1.png
+wwwroot\Imagenes\Accesorios\Bolso10.png
+wwwroot\Imagenes\Accesorios\Bolso11.png
+wwwroot\Imagenes\Accesorios\Bolso12.png
+wwwroot\Imagenes\Accesorios\Bolso2.png
+wwwroot\Imagenes\Accesorios\Bolso3.png
+wwwroot\Imagenes\Accesorios\Bolso4.png
+wwwroot\Imagenes\Accesorios\Bolso5.png
+wwwroot\Imagenes\Accesorios\Bolso6.png
+wwwroot\Imagenes\Accesorios\Bolso7.png
+wwwroot\Imagenes\Accesorios\Bolso8.png
+wwwroot\Imagenes\Accesorios\Bolso9.png
+wwwroot\Imagenes\Accesorios\Bolsos.png
+wwwroot\Imagenes\Accesorios\Bufanda.png
+wwwroot\Imagenes\Accesorios\Corbatas.png
+wwwroot\Imagenes\Accesorios\Gafas.png
+wwwroot\Imagenes\Accesorios\Joyeria.png
+wwwroot\Imagenes\Accesorios\Joyeria1.png
+wwwroot\Imagenes\Accesorios\Joyeria10.png
+wwwroot\Imagenes\Accesorios\Joyeria11.png
+wwwroot\Imagenes\Accesorios\Joyeria12.png
+wwwroot\Imagenes\Accesorios\Joyeria13.png
+wwwroot\Imagenes\Accesorios\Joyeria14.png
+wwwroot\Imagenes\Accesorios\Joyeria15.png
+wwwroot\Imagenes\Accesorios\Joyeria2.png
+wwwroot\Imagenes\Accesorios\Joyeria3.png
+wwwroot\Imagenes\Accesorios\Joyeria4.png
+wwwroot\Imagenes\Accesorios\Joyeria5.png
+wwwroot\Imagenes\Accesorios\Joyeria6.png
+wwwroot\Imagenes\Accesorios\Joyeria7.png
+wwwroot\Imagenes\Accesorios\Joyeria8.png
+wwwroot\Imagenes\Accesorios\Joyeria9.png
+wwwroot\Imagenes\Accesorios\Reloj.png
+wwwroot\Imagenes\index\ImagenAccesorios.png
+wwwroot\Imagenes\index\ImagenMujer.png
+wwwroot\Imagenes\index\ImagenTendencias.png
+wwwroot\Imagenes\index\ImamagenHombre.png
+wwwroot\Imagenes\PaginaHombre\Banner1.2.png
+wwwroot\Imagenes\PaginaHombre\Banner1.png
+wwwroot\Imagenes\PaginaHombre\Banner2.2.png
+wwwroot\Imagenes\PaginaHombre\Banner2.png
+wwwroot\Imagenes\PaginaHombre\Banner3.png
+wwwroot\Imagenes\PaginaHombre\BannerHombre.jpeg
+wwwroot\Imagenes\PaginaHombre\Camisas.png
+wwwroot\Imagenes\PaginaHombre\Camisetas.png
+wwwroot\Imagenes\PaginaHombre\Carta1.jpeg
+wwwroot\Imagenes\PaginaHombre\Carta2.jpeg
+wwwroot\Imagenes\PaginaHombre\Carta3.jpeg
+wwwroot\Imagenes\PaginaHombre\Carta4.jpeg
+wwwroot\Imagenes\PaginaHombre\casual.jpg
+wwwroot\Imagenes\PaginaHombre\Chaquetas.png
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 1.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 10.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 11.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 12.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 13.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 14.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 15.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 16.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 2.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 3.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 4.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 5.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 6.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 7.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 8.jpeg
+wwwroot\Imagenes\PaginaHombre\Chaquetas\Chaqueta 9.jpeg
+wwwroot\Imagenes\PaginaHombre\classic.jpg
+wwwroot\Imagenes\PaginaHombre\DTEEH1.jpg
+wwwroot\Imagenes\PaginaHombre\DTEEH2.jpg
+wwwroot\Imagenes\PaginaHombre\DTEEH3.jpg
+wwwroot\Imagenes\PaginaHombre\DTEEH4.jpg
+wwwroot\Imagenes\PaginaHombre\DTEEH5.jpg
+wwwroot\Imagenes\PaginaHombre\DTEEH6.jpg
+wwwroot\Imagenes\PaginaHombre\DTEEH7.jpg
+wwwroot\Imagenes\PaginaHombre\DTEEH8.jpg
+wwwroot\Imagenes\PaginaHombre\elegante.jpg
+wwwroot\Imagenes\PaginaHombre\formal.jpg
+wwwroot\Imagenes\PaginaHombre\ImagenCollage1.jpg
+wwwroot\Imagenes\PaginaHombre\ImagenCollage2.jpg
+wwwroot\Imagenes\PaginaHombre\ImagenCollage3.jpg
+wwwroot\Imagenes\PaginaHombre\ImagenCollage4.jpg
+wwwroot\Imagenes\PaginaHombre\ImagenCollage5.jpg
+wwwroot\Imagenes\PaginaHombre\ImagenCollage6.jpg
+wwwroot\Imagenes\PaginaHombre\Mesa de trabajo 1.png
+wwwroot\Imagenes\PaginaHombre\Pantalones.png
+wwwroot\Imagenes\PaginaHombre\Sueteres.png
+wwwroot\Imagenes\PaginaHombre\Traje_2 (1).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_2 (2).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_2 (3).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_2 (4).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_3 (1).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_3 (2).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_3 (3).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_3 (4).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_4 (1).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_4 (2).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_4 (3).jpg
+wwwroot\Imagenes\PaginaHombre\Traje_4 (4).jpg
+wwwroot\Imagenes\PaginaHombre\Traje1.jpg
+wwwroot\Imagenes\PaginaHombre\Traje2.jpg
+wwwroot\Imagenes\PaginaHombre\Traje3.jpg
+wwwroot\Imagenes\PaginaHombre\Traje4.jpg
+wwwroot\Imagenes\PaginaHombre\Trajes.png
+wwwroot\Imagenes\PagIniciarSesion\Flecha.png
+wwwroot\Imagenes\PagIniciarSesion\FlechaAtras.png
+wwwroot\Imagenes\PagIniciarSesion\google 1.png
+wwwroot\Imagenes\PagIniciarSesion\image 8 (1).png
+wwwroot\Imagenes\PagIniciarSesion\image 8.png
+wwwroot\Imagenes\PagMujer\abrigo 1.png
+wwwroot\Imagenes\PagMujer\Abrigos.jpeg
+wwwroot\Imagenes\PagMujer\BanerMujer3.jpeg
+wwwroot\Imagenes\PagMujer\BannerMujer1.jpeg
+wwwroot\Imagenes\PagMujer\BannerMujer2.jpeg
+wwwroot\Imagenes\PagMujer\CamisaMujer.png
+wwwroot\Imagenes\PagMujer\Camisas.jpeg
+wwwroot\Imagenes\PagMujer\CarritoCompas.png
+wwwroot\Imagenes\PagMujer\Casual.jpg
+wwwroot\Imagenes\PagMujer\DTEE(1).jpg
+wwwroot\Imagenes\PagMujer\DTEE(10).jpg
+wwwroot\Imagenes\PagMujer\DTEE(11).jpg
+wwwroot\Imagenes\PagMujer\DTEE(2).jpg
+wwwroot\Imagenes\PagMujer\DTEE(3).jpg
+wwwroot\Imagenes\PagMujer\DTEE(4).jpg
+wwwroot\Imagenes\PagMujer\DTEE(5).jpg
+wwwroot\Imagenes\PagMujer\DTEE(6).jpg
+wwwroot\Imagenes\PagMujer\DTEE(7).jpg
+wwwroot\Imagenes\PagMujer\DTEE(8).jpg
+wwwroot\Imagenes\PagMujer\DTEE(9).jpg
+wwwroot\Imagenes\PagMujer\DTEE.jpg
+wwwroot\Imagenes\PagMujer\Elegante1.jpg
+wwwroot\Imagenes\PagMujer\Facebook, intagram, twitter.png
+wwwroot\Imagenes\PagMujer\Faldas.jpeg
+wwwroot\Imagenes\PagMujer\Fiesta.jpg
+wwwroot\Imagenes\PagMujer\Flecha (Correo).png
+wwwroot\Imagenes\PagMujer\Flecha(Pais) (1).png
+wwwroot\Imagenes\PagMujer\Flecha(Pais).png
+wwwroot\Imagenes\PagMujer\image 13.png
+wwwroot\Imagenes\PagMujer\image 14.png
+wwwroot\Imagenes\PagMujer\image 15.png
+wwwroot\Imagenes\PagMujer\image 16.png
+wwwroot\Imagenes\PagMujer\image 17.png
+wwwroot\Imagenes\PagMujer\image 19.png
+wwwroot\Imagenes\PagMujer\image 20.png
+wwwroot\Imagenes\PagMujer\image 21.png
+wwwroot\Imagenes\PagMujer\image 22.png
+wwwroot\Imagenes\PagMujer\image 23.png
+wwwroot\Imagenes\PagMujer\image 24.png
+wwwroot\Imagenes\PagMujer\ImagenAccesorios.png
+wwwroot\Imagenes\PagMujer\ImagenMujer.png
+wwwroot\Imagenes\PagMujer\ImagenTendencias.png
+wwwroot\Imagenes\PagMujer\ImamagenHombre.png
+wwwroot\Imagenes\PagMujer\Lupa.png
+wwwroot\Imagenes\PagMujer\pantalon (1).jpg
+wwwroot\Imagenes\PagMujer\pantalon (10).jpg
+wwwroot\Imagenes\PagMujer\pantalon (11).jpg
+wwwroot\Imagenes\PagMujer\pantalon (12).jpg
+wwwroot\Imagenes\PagMujer\pantalon (13).jpg
+wwwroot\Imagenes\PagMujer\pantalon (14).jpg
+wwwroot\Imagenes\PagMujer\pantalon (15).jpg
+wwwroot\Imagenes\PagMujer\pantalon (16).jpg
+wwwroot\Imagenes\PagMujer\pantalon (2).jpg
+wwwroot\Imagenes\PagMujer\pantalon (3).jpg
+wwwroot\Imagenes\PagMujer\pantalon (4).jpg
+wwwroot\Imagenes\PagMujer\pantalon (5).jpg
+wwwroot\Imagenes\PagMujer\pantalon (6).jpg
+wwwroot\Imagenes\PagMujer\pantalon (7).jpg
+wwwroot\Imagenes\PagMujer\pantalon (8).jpg
+wwwroot\Imagenes\PagMujer\pantalon (9).jpg
+wwwroot\Imagenes\PagMujer\Pantalones.jpeg
+wwwroot\Imagenes\PagMujer\PantalonMujer.png
+wwwroot\Imagenes\PagMujer\Party.jpeg
+wwwroot\Imagenes\PagMujer\saco (1).jpg
+wwwroot\Imagenes\PagMujer\saco (10).jpg
+wwwroot\Imagenes\PagMujer\saco (11).jpg
+wwwroot\Imagenes\PagMujer\saco (12).jpg
+wwwroot\Imagenes\PagMujer\saco (13).jpg
+wwwroot\Imagenes\PagMujer\saco (14).jpg
+wwwroot\Imagenes\PagMujer\saco (15).jpg
+wwwroot\Imagenes\PagMujer\saco (2).jpg
+wwwroot\Imagenes\PagMujer\saco (3).jpg
+wwwroot\Imagenes\PagMujer\saco (4).jpg
+wwwroot\Imagenes\PagMujer\saco (5).jpg
+wwwroot\Imagenes\PagMujer\saco (6).jpg
+wwwroot\Imagenes\PagMujer\saco (7).jpg
+wwwroot\Imagenes\PagMujer\saco (8).jpg
+wwwroot\Imagenes\PagMujer\saco (9).jpg
+wwwroot\Imagenes\PagMujer\saco.jpg
+wwwroot\Imagenes\PagMujer\Sacos.jpeg
+wwwroot\Imagenes\PagMujer\Tiktok.png
+wwwroot\Imagenes\PagMujer\Trendy.jpeg
+wwwroot\Imagenes\PagMujer\Trendy.jpg
+wwwroot\Imagenes\PagMujer\Union.png
+wwwroot\Imagenes\PagMujer\Usuario.png
+wwwroot\Imagenes\PagMujer\Vestido 1.png
+wwwroot\Imagenes\PagMujer\Vestidos.jpeg
+wwwroot\Imagenes\PagMujer\WomanBannerIA.mp4
+wwwroot\Imagenes\PagMujer\Youtube, Pinteres.png
+wwwroot\js\PagDetalleSaco.js
+wwwroot\js\Pagina2.js
+wwwroot\js\Pagina21.js
+wwwroot\js\Pagina22.js
+wwwroot\js\Pagina23.js
+wwwroot\js\Pagina3.js
+wwwroot\js\PaginaDetalleJoyeria1.js
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

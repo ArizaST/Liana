@@ -1,0 +1,92 @@
+h2 {
+    margin-top:8%;
+}
+
+
+.container {
+    max-width: 1200px;
+    padding: 10px;
+    padding-bottom: 5px;
+    margin-top:2%;
+    justify-content: space-between;
+    contain: paint;
+    font-size: 18px;
+}
+
+
+/* Estilo para la sección "Nosotros" */
+.seccion-nosotros {
+    background-color: #250311;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.titulo-nosotros {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 36px;
+    color: #fff;
+}
+
+.contenido-nosotros {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    max-width: 1100px;
+    margin: auto;
+    text-align: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.imagen-nosotros {
+    flex: 1;
+    margin-right: 20px;
+}
+
+    .imagen-nosotros img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+
+.texto-nosotros {
+    flex: 1;
+    color: #fff;
+    margin-top: 5px;
+    font-size: 16px;
+    text-align: justify;
+    padding: 20px;
+}
+
+/* Media query para dispositivos móviles */
+@media screen and (max-width: 768px) {
+    .product-container {
+        margin-top: 30%;
+    }
+
+    .product-container {
+        flex-wrap: wrap; /* Cambiar a un diseño de varias filas */
+    }
+
+    .product {
+        flex: 0 0 calc(27% - 20px); /* Tres columnas con margen */
+        margin: 10px; /* Margen para separar las columnas y filas */
+    }
+
+    .product-text {
+        font-size: 2rem;
+    }
+
+    .contenido-nosotros {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .imagen-nosotros {
+        margin: 0;
+        margin-bottom: 5px;
+    }
+}

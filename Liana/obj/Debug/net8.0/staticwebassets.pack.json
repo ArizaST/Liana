@@ -1,0 +1,1125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Liana.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Liana.6xtv6bo5py.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso1.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso10.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso10.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso11.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso11.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso12.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso12.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso2.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso3.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso4.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso5.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso6.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso7.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso8.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolso9.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolso9.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bolsos.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bolsos.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Bufanda.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Bufanda.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Corbatas.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Corbatas.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Gafas.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Gafas.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria1.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria10.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria10.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria11.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria11.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria12.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria12.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria13.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria13.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria14.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria14.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria15.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria15.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria2.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria3.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria4.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria5.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria6.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria7.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria8.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Joyeria9.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Joyeria9.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\Accesorios\\Reloj.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Accesorios\\Reloj.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagIniciarSesion\\Flecha.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagIniciarSesion\\Flecha.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagIniciarSesion\\FlechaAtras.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagIniciarSesion\\FlechaAtras.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagIniciarSesion\\google 1.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagIniciarSesion\\google 1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagIniciarSesion\\image 8 (1).png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagIniciarSesion\\image 8 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagIniciarSesion\\image 8.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagIniciarSesion\\image 8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Abrigos.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Abrigos.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\BanerMujer3.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\BanerMujer3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\BannerMujer1.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\BannerMujer1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\BannerMujer2.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\BannerMujer2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\CamisaMujer.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\CamisaMujer.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Camisas.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Camisas.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\CarritoCompas.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\CarritoCompas.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Casual.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Casual.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(1).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(10).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(10).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(11).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(11).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(2).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(3).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(4).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(5).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(6).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(7).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(7).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(8).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(8).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE(9).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE(9).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\DTEE.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\DTEE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Elegante1.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Elegante1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Facebook, intagram, twitter.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Facebook, intagram, twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Faldas.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Faldas.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Fiesta.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Fiesta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Flecha (Correo).png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Flecha (Correo).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Flecha(Pais) (1).png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Flecha(Pais) (1).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Flecha(Pais).png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Flecha(Pais).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\ImagenAccesorios.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\ImagenAccesorios.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\ImagenMujer.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\ImagenMujer.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\ImagenTendencias.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\ImagenTendencias.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\ImamagenHombre.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\ImamagenHombre.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Lupa.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Lupa.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\PantalonMujer.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\PantalonMujer.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Pantalones.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Pantalones.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Party.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Party.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Sacos.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Sacos.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Tiktok.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Tiktok.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Trendy.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Trendy.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Trendy.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Trendy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Union.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Union.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Usuario.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Usuario.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Vestido 1.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Vestido 1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Vestidos.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Vestidos.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\WomanBannerIA.mp4",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\WomanBannerIA.mp4"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\Youtube, Pinteres.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\Youtube, Pinteres.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\abrigo 1.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\abrigo 1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 13.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 13.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 14.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 14.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 15.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 15.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 16.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 16.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 17.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 17.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 19.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 19.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 20.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 20.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 21.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 21.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 22.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 22.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 23.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 23.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\image 24.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\image 24.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (1).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (10).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (10).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (11).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (11).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (12).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (12).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (13).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (13).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (14).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (14).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (15).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (15).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (16).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (2).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (3).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (4).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (5).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (6).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (7).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (7).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (8).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (8).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\pantalon (9).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\pantalon (9).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (1).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (10).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (10).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (11).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (11).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (12).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (12).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (13).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (13).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (14).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (14).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (15).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (15).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (2).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (3).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (4).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (5).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (6).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (7).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (7).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (8).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (8).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco (9).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco (9).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PagMujer\\saco.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PagMujer\\saco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Banner1.2.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Banner1.2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Banner1.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Banner1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Banner2.2.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Banner2.2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Banner2.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Banner2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Banner3.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Banner3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\BannerHombre.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\BannerHombre.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Camisas.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Camisas.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Camisetas.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Camisetas.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Carta1.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Carta1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Carta2.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Carta2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Carta3.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Carta3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Carta4.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Carta4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 1.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 10.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 11.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 12.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 12.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 13.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 13.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 14.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 14.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 15.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 15.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 16.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 16.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 2.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 3.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 4.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 5.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 6.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 7.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 8.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 9.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Chaquetas\\Chaqueta 9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\DTEEH1.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\DTEEH1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\DTEEH2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\DTEEH2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\DTEEH3.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\DTEEH3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\DTEEH4.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\DTEEH4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\DTEEH5.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\DTEEH5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\DTEEH6.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\DTEEH6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\DTEEH7.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\DTEEH7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\DTEEH8.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\DTEEH8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\ImagenCollage1.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\ImagenCollage1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\ImagenCollage2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\ImagenCollage2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\ImagenCollage3.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\ImagenCollage3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\ImagenCollage4.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\ImagenCollage4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\ImagenCollage5.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\ImagenCollage5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\ImagenCollage6.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\ImagenCollage6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Mesa de trabajo 1.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Mesa de trabajo 1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Pantalones.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Pantalones.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Sueteres.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Sueteres.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje1.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje3.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje4.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_2 (1).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_2 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_2 (2).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_2 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_2 (3).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_2 (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_2 (4).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_2 (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_3 (1).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_3 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_3 (2).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_3 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_3 (3).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_3 (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_3 (4).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_3 (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_4 (1).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_4 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_4 (2).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_4 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_4 (3).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_4 (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Traje_4 (4).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Traje_4 (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\Trajes.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\Trajes.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\casual.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\casual.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\classic.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\classic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\elegante.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\elegante.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\PaginaHombre\\formal.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\PaginaHombre\\formal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\index\\ImagenAccesorios.png",
+      "PackagePath": "staticwebassets\\Imagenes\\index\\ImagenAccesorios.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\index\\ImagenMujer.png",
+      "PackagePath": "staticwebassets\\Imagenes\\index\\ImagenMujer.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\index\\ImagenTendencias.png",
+      "PackagePath": "staticwebassets\\Imagenes\\index\\ImagenTendencias.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\Imagenes\\index\\ImamagenHombre.png",
+      "PackagePath": "staticwebassets\\Imagenes\\index\\ImamagenHombre.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\css\\Pagina3.css",
+      "PackagePath": "staticwebassets\\css\\Pagina3.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\css\\StylesCatalogo.css",
+      "PackagePath": "staticwebassets\\css\\StylesCatalogo.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\css\\StylesDTE.css",
+      "PackagePath": "staticwebassets\\css\\StylesDTE.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\css\\StylesDetalles.css",
+      "PackagePath": "staticwebassets\\css\\StylesDetalles.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\css\\StylesPagina.css",
+      "PackagePath": "staticwebassets\\css\\StylesPagina.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\css\\StylesPaginaIS.css",
+      "PackagePath": "staticwebassets\\css\\StylesPaginaIS.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\css\\StylesPaginaRegistro.css",
+      "PackagePath": "staticwebassets\\css\\StylesPaginaRegistro.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\css\\UserList.css",
+      "PackagePath": "staticwebassets\\css\\UserList.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\js\\PagDetalleSaco.js",
+      "PackagePath": "staticwebassets\\js\\PagDetalleSaco.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\js\\Pagina2.js",
+      "PackagePath": "staticwebassets\\js\\Pagina2.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\js\\Pagina21.js",
+      "PackagePath": "staticwebassets\\js\\Pagina21.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\js\\Pagina22.js",
+      "PackagePath": "staticwebassets\\js\\Pagina22.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\js\\Pagina23.js",
+      "PackagePath": "staticwebassets\\js\\Pagina23.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\js\\Pagina3.js",
+      "PackagePath": "staticwebassets\\js\\Pagina3.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\js\\PaginaDetalleJoyeria1.js",
+      "PackagePath": "staticwebassets\\js\\PaginaDetalleJoyeria1.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\LianaFinal (2)\\LianaFinal\\LianaFinal\\Liana\\Liana\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Liana.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Liana.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Liana.props",
+      "PackagePath": "build\\Liana.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Liana.props",
+      "PackagePath": "buildMultiTargeting\\Liana.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Liana.props",
+      "PackagePath": "buildTransitive\\Liana.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

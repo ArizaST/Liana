@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+@{
+    Layout = null;
+}
+
+<link rel="stylesheet" href="~/css/Index.css" asp-append-version="true" />
+
+    <div class="escritorio">
+        <div class="liana">LIANA</div>
+        <div class="menuPrincipal">
+            <div class="bannerMujer">
+                <a class="mujeresTexto" asp-area="" asp-controller="Home" asp-action="PaginaMujeres">
+                    <img src="~/Imagenes/index/ImagenMujer.png" class="zoomable-image">
+                    <span class="box-text">MUJER</span>
+                </a>
+            </div>
+            <div class="bannerHombre">
+                <a class="hombresTexto" asp-area="" asp-controller="Home" asp-action="PaginaHombres">   
+                    <img src="~/Imagenes/index/ImamagenHombre.png" class="zoomable-image">
+                    <span class="box-text">HOMBRE</span>
+                </a>
+            </div>
+            <div class="banners">
+                <div class="bannerTendencias">
+                    <a href="#" class="tendenciasTexto">
+                        <img src="~/Imagenes/index/ImagenTendencias.png" class="zoomable-image">
+                        <span class="box-text">TENDENCIAS</span>
+                    </a>
+                </div>
+                <div class="bannerAccesorios">
+                     <a class="accesoriosTexto" asp-area="" asp-controller="Home" asp-action="CatalogoBolsos">
+                        <img src="~/Imagenes/index/ImagenAccesorios.png" class="zoomable-image">
+                        <span class="box-text">ACCESORIOS</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
